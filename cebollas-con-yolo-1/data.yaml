@@ -1,0 +1,14 @@
+names:
+- hoja
+- referencia
+- tallo
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: cebollas-con-yolo
+  url: https://universe.roboflow.com/itd-vaymw/cebollas-con-yolo/dataset/1
+  version: 1
+  workspace: itd-vaymw
+test: ../test/images
+train: cebollas-con-yolo-1/train/images
+val: cebollas-con-yolo-1/valid/images
